@@ -1,0 +1,9 @@
+streamlit
+torch 
+transformers 
+textblob 
+matplotlib 
+seaborn 
+pandas 
+reportlab
+langchain-google-genai
