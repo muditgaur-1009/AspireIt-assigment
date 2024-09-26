@@ -11,7 +11,7 @@ from reportlab.pdfgen import canvas
 from reportlab.lib.utils import ImageReader
 
 # Set up Google API key
-os.environ["GOOGLE_API_KEY"] = "AIzaSyDUn2glMnA3eaRRdZLGo_l9-TYMY3Fx9-8"
+os.environ["GOOGLE_API_KEY"] = "your-api-key"
 
 # Initialize the ChatGoogleGenerativeAI model
 @st.cache_resource
